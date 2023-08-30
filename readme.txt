@@ -1,1 +1,0 @@
-This is a Linear Regression ML model with regularization. Also the model is deployed using streamlit. Run "Home.py" file to predict price of a car
